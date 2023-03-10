@@ -14,6 +14,8 @@ public class Main {
 
         whetherData.setMeasurements(80, 65, 30.4f);
         whetherData.setMeasurements(82, 70, 29.2f);
+
+
         whetherData.setMeasurements(78, 90, 29.2f);
 
     }
