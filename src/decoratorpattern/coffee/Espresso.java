@@ -1,11 +1,11 @@
 package decoratorpattern.coffee;
 
-import decoratorpattern.coffee.Beverage;
+
 
 public class Espresso extends Beverage {
 
     public Espresso() {
-        super.setDescription("Espresso: ");
+        super.setDescription("e");
     }
     @Override
     public double cost() {
